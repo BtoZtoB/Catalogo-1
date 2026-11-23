@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0",
+    "nombre": "Empanadas",
+    "precio": 2.5,
+    "imagen": "img/empanadas.jpg",
+    "clase": ""
+  },
+  {
+    "id": "1",
+    "nombre": "Rollo de queso",
+    "precio": 20,
+    "imagen": "img/rollo-de-queso.jpg",
+    "clase": ""
+  },
+  {
+    "id": "1-tajada",
+    "nombre": "Rollo de queso (tajada)",
+    "precio": 2.5,
+    "imagen": "img/rollo-de-queso.jpg",
+    "clase": ""
+  },
+  {
+    "id": "2",
+    "nombre": "Queque",
+    "precio": 25,
+    "imagen": "img/queque.jpg",
+    "clase": ""
+  },
+  {
+    "id": "2-tajada",
+    "nombre": "Queque (tajada)",
+    "precio": 2.5,
+    "imagen": "img/queque.jpg",
+    "clase": ""
+  },
+  {
+    "id": "3",
+    "nombre": "Mini rollo de queso",
+    "precio": 2.5,
+    "imagen": "img/mini-rollo-de-queso.jpg",
+    "clase": ""
+  },
+  {
+    "id": "4",
+    "nombre": "Pucas",
+    "precio": 4,
+    "imagen": "img/pucas.jpg",
+    "clase": ""
+  },
+  {
+    "id": "5",
+    "nombre": "Kit de graduación",
+    "precio": 60,
+    "imagen": "img/kit-de-graduacion.jpg",
+    "clase": ""
+  }
+]
